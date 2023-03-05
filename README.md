@@ -1,8 +1,6 @@
 ## Hey, I'm Kauan! <img src="https://media.giphy.com/media/AcfTF7tyikWyroP0x7/giphy.gif" width="50">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanzeraaa&theme=midnight-purple&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzeraaa&layout=compact&theme=midnight-purple)](https://github.com/kauanzeraaa/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kauanzeraaa&theme=midnight-purple&show_icons=true" width="50%">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzeraaa&layout=compact&theme=midnight-purple" width="45%">
 
 ##
 
