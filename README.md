@@ -1,4 +1,4 @@
-## Hey, I'm Kauan!
+## Hey, I'm Kauan! <img src="https://media.giphy.com/media/AcfTF7tyikWyroP0x7/giphy.gif" width="50">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanzeraaa&theme=midnight-purple&show_icons=true)
 
