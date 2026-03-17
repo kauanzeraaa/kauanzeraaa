@@ -1,26 +1,64 @@
-## Hey, I'm Kauan! <img src="https://media.giphy.com/media/AcfTF7tyikWyroP0x7/giphy.gif" width="51" align="center">
+## Hello, I'm Kauan Piacente 👋
 
-<div>
-  <a href="https://github.com/kauanzeraaa/">
-  <img width = "120rem" height = "180rem" src="https://github-readme-stats.vercel.app/api?username=kauanzeraaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height = "180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
-  <img height = "180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzeraaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+💻 Systems Analysis and Development student at **Senai Roberto Mange**  
+⚙️ Junior Automation Technician at **HI Tecnologia**  
 
+I enjoy working with **industrial automation, programming and technology**, always looking to improve my skills and learn new tools.
 
-##
+---
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Kauan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Kauan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-##
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.instagram.com/kauan.piacente/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:piacentekauan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauan-piacente-5718ba268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauanzeraaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzeraaa&theme=vue-dark&layout=compact&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
+
 </div>
+
+---
+
+### 🛠️ Technologies
+
+<div align="center">
+
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+</div>
+
+---
+
+### 🌐 Connect with me
+
+<div align="center">
+
+<a href="mailto:piacentekauan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kauan-piacente-5718ba268/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/kauan.piacente/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kauanzeraaa/kauanzeraaa/output/github-contribution-grid-snake-dark.svg">
+</p>
