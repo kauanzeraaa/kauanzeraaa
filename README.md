@@ -1,6 +1,6 @@
 ## Hey, I'm Kauan! <img src="https://media.giphy.com/media/AcfTF7tyikWyroP0x7/giphy.gif" width="51" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kauanzeraaa&theme=midnight-purple&show_icons=true" width="50%">  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauanzeraaa&layout=compact&theme=midnight-purple" width="41%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kauanzeraaa&theme=midnight-purple&show_icons=true" width="50%">  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?![kauanzeraaa's Stats](https://github-readme-stats.vercel.app/api?username=kauanzeraaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![kauanzeraaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true)
 
 ##
