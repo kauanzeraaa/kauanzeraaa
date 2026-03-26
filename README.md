@@ -11,8 +11,6 @@ I enjoy working with **industrial automation, programming and technology**, alwa
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauanzeraaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzeraaa&theme=vue-dark&layout=compact&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
