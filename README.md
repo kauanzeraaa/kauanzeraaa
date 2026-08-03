@@ -14,7 +14,7 @@ I enjoy working with **industrial automation, programming and technology**, alwa
 </div>
 
 <div align="center">
-  <img height="170em" src="https://streak-stats.demolab.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
 </div>
 
 <div align="center"> 
