@@ -15,7 +15,7 @@ I enjoy working with **industrial automation, programming and technology**, alwa
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=kauanzeraaa&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
