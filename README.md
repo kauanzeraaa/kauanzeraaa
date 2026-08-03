@@ -10,7 +10,7 @@ I enjoy working with **industrial automation, programming and technology**, alwa
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://streak-stats.demolab.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sable-eta-17.vercel.app/api?username=kauanzeraaa&show_icons=true&theme=vue-dark&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats-sable-eta-17.vercel.app/api/top-langs/?username=kauanzeraaa&layout=compact&theme=vue-dark&hide_border=true"/>
 </div>
 
