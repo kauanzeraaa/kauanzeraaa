@@ -10,11 +10,11 @@ I enjoy working with **industrial automation, programming and technology**, alwa
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=kauanzeraaa&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=kauanzeraaa&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center"> 
