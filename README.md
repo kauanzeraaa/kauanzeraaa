@@ -1,13 +1,11 @@
 ## Hello, I'm Kauan Piacente 👋
 
-💻 Systems Analysis and Development student at **Senai Roberto Mange**  
-⚙️ Junior Automation Technician at **HI Tecnologia**  
-
-I enjoy working with **industrial automation, programming and technology**, always looking to improve my skills and learn new tools.
+ Systems Analysis and Development student at **Senai Roberto Mange**  
+ Junior Automation Technician at **HI Tecnologia**  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=kauanzeraaa&theme=vue-dark&hide_border=true"/>
@@ -23,7 +21,7 @@ I enjoy working with **industrial automation, programming and technology**, alwa
 
 ---
 
-### 🛠️ Technologies
+### Technologies
 
 <div align="center">
 
@@ -39,7 +37,7 @@ I enjoy working with **industrial automation, programming and technology**, alwa
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <div align="center">
 
@@ -59,8 +57,3 @@ I enjoy working with **industrial automation, programming and technology**, alwa
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kauanzeraaa/kauanzeraaa/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
